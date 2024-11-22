@@ -1,0 +1,98 @@
+[
+    {
+        "scheme": "MUDRA",
+        "purpose": "To provide credit for business requirements up to Rs. 10.00 Lacs.",
+        "target_group": "Micro Enterprises in trading, manufacturing, and service sectors.",
+        "documents": [
+            "Business proofs (license, URC, etc.)",
+            "Stock details",
+            "Food safety permissions",
+            "Invoices from vendors",
+            "All applicable permissions to run the unit",
+            "Aadhaar Card",
+            "PAN Card",
+            "Bank statements (last 6 months)",
+            "Income tax returns (last 2 years)",
+            "Projected financial statements"
+        ]
+    },
+    {
+        "scheme": "WOMEN SPECIFIC",
+        "purpose": "To meet business-related requirements of women under Micro, Small and Medium Enterprises.",
+        "target_group": "Enterprises owned by women complying with the MSME guidelines.",
+        "documents": [
+            "If mortgage involved: EC, latest tax paid, land documents, legal scrutiny report, valuation report",
+            "Aadhaar Card",
+            "PAN Card",
+            "Business license or registration certificate"
+        ]
+    },
+    {
+        "scheme": "MUDRA ATITHI",
+        "purpose": "To provide term loans for purchase of equipment for setting up business and required working capital.",
+        "target_group": "Cafeterias, restaurants, darshini hotels with self-service facility, mobile canteens, dhabas, fast food centers under Micro & Small Enterprises.",
+        "documents": [
+            "Business proofs (license, URC, etc.)",
+            "Stock details",
+            "Food safety permissions",
+            "Invoices from vendors",
+            "All applicable permissions to run the unit",
+            "Aadhaar Card",
+            "Bank statements (last 6 months)",
+            "Projected financial statements"
+        ]
+    },
+    {
+        "scheme": "C-GST",
+        "purpose": "To provide fund-based working capital finance up to Rs. 10 Lakhs to GST registered entities.",
+        "target_group": "Existing current account holders for a minimum period of 12 months categorized as GST retail and other business proofs.",
+        "documents": [
+            "GST registration certificate",
+            "Bank statements (last 6 months)",
+            "Proof of business existence (license or registration)"
+        ]
+    },
+    {
+        "scheme": "PHARMA",
+        "purpose": "To provide credit for business requirements of MSME borrowers engaged in manufacturing or trading pharmaceuticals.",
+        "target_group": "Micro Small and Medium Enterprises engaged in manufacturing of pharmaceuticals.",
+        "documents": [
+            "Business proofs (license, URC, etc.)",
+            "Stock details",
+            "Pharmacy permissions",
+            "Invoices from vendors",
+            "All applicable permissions to run the unit",
+            "Aadhaar Card",
+            "PAN Card"
+        ]
+    },
+    {
+        "scheme": "RESTAURANTS",
+        "purpose": "To provide credit for business requirements to borrowers engaged in the hotel industry.",
+        "target_group": "Units under hotel industries (service sector), marriage/banquet halls.",
+        "documents": [
+            "Business proofs (license, URC, etc.)",
+            "Stock details",
+            "Food safety permissions",
+            "Invoices from vendors",
+            "All applicable permissions to run the unit",
+            "Aadhaar Card",
+            "Bank statements (last 6 months)"
+        ]
+    },
+    {
+        "scheme": "Laghu Udyami Credit Card Scheme",
+        "purpose": "To meet the working capital requirement of artisans, village industries, micro and small enterprises including tiny units.",
+        "target_group": "Artisans, village industries, micro and small enterprises.",
+        "documents": [
+            "Business proofs (license, URC, etc.)",
+            "Stock details",
+            "Food safety permissions",
+            "Invoices from vendors",
+            "All applicable permissions to run the unit",
+            "'Aadhaar Card'",
+            "'PAN Card'",
+            "'Bank statements (last 6 months)'"
+        ]
+    }
+]

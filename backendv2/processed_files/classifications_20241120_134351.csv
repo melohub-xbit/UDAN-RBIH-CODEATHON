@@ -1,0 +1,5 @@
+transaction,category,merchant
+INR 500 debited to swiggy@upi for dinner,food,swiggy
+INR 1000 debited to bigbasket@upi for groceries,food,bigbasket
+INR 200 debited to uber@upi for ride,transport,Uber
+INR 799 debited to netflix@upi for subscription,entertainment,netflix

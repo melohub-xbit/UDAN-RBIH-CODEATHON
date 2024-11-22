@@ -1,0 +1,13 @@
+raw_transaction,upi_id,amount,transaction_type,recepient_type,category,bank,recepient_name
+Brother - [00:32:47 02-12-2022] INR 836 debited to mart.156@okhdfc,mart.156@okhdfc,836.00,debit,mart,,HDFC,
+Brother - [00:47:14 02-12-2022] INR 851 debited to vendor.968@oksbi,vendor.968@oksbi,851.00,debit,vendor,,SBI,
+Brother - [16:45:02 02-12-2022] INR 669 debited to shop.869@okaxis,shop.869@okaxis,669.00,debit,shop,,Axis,
+Brother - [21:34:47 03-12-2022] INR 964 debited to shop.861@okicici,shop.861@okicici,964.00,debit,shop,,ICICI,
+Brother - [08:27:28 04-12-2022] INR 1064 debited to seller.113@okhdfc,seller.113@okhdfc,1064.00,debit,seller,,HDFC,
+Brother - [13:14:28 05-12-2022] INR 16594 debited to seller.210@paytm,seller.210@paytm,16594.00,debit,seller,,Paytm,
+Brother - [22:00:27 05-12-2022] INR 4385 credited from vendor.253@oksbi,vendor.253@oksbi,4385.00,credit,vendor,,SBI,
+Brother - [01:07:19 09-12-2022] INR 543 debited to mart.518@oksbi,mart.518@oksbi,543.00,debit,mart,,SBI,
+Brother - [12:52:59 17-12-2022] INR 1193 debited to shop.861@okicici,shop.861@okicici,1193.00,debit,shop,,ICICI,
+Brother - [07:30:57 18-12-2022] INR 3448 debited to mart.594@okicici,mart.594@okicici,3448.00,debit,mart,,ICICI,
+...
+```

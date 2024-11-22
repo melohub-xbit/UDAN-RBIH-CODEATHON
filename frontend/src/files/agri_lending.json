@@ -1,0 +1,118 @@
+[
+    {
+        "scheme": "KISAN CREDIT CARD",
+        "purpose": [
+            "a. Cultivation of crops",
+            "b. Post-harvest expenses",
+            "c. Produce marketing loan",
+            "d. Consumption needs"
+        ],
+        "target_group": "All Farmers – Individuals / Joint borrowers who are owner cultivators/Tenant Farmers",
+        "documents": [
+            "Title deeds",
+            "Sale Agreements",
+            "Tax Certificates",
+            "Mutation Document",
+            "Aadhaar Card",
+            "Bank account statement (last 6 months)"
+        ]
+    },
+    {
+        "scheme": "TATKAL",
+        "purpose": [
+            "Urgent or unforeseen expenses for farmers"
+        ],
+        "target_group": "All existing KCC holders, whose cards are valid and accounts regular",
+        "documents": [
+            "Existing KCC documents",
+            "Aadhaar Card",
+            "Bank account statement (last 6 months)"
+        ]
+    },
+    {
+        "scheme": "OVERDRAFT",
+        "purpose": [
+            "Overdraft facility for working capital expenses to agriculturists who have received KCC prompt repayment incentive for past three years"
+        ],
+        "target_group": "Individual farmers / joint borrowers, partnership firms, private limited companies and public limited companies etc.",
+        "documents": [
+            "Title deeds",
+            "Sale Agreements",
+            "Tax Certificates",
+            "Mutation Document",
+            "Bank account statement (last 6 months)",
+            "Aadhaar Card"
+        ]
+    },
+    {
+        "scheme": "DAIRY LOANS",
+        "purpose": [
+            "a. Construction of cattle shed",
+            "b. Purchase of high yielding milk cattle",
+            "c. Purchase of dairy equipment"
+        ],
+        "target_group": "Farmers, Individual entrepreneurs, NGOs, companies, groups of un-organized and organized sector etc.",
+        "documents": [
+            "Veterinary Certificate",
+            "Insurance documents",
+            "Quotations from suppliers",
+            "Bills/vouchers etc.",
+            "Security and land documents as per loan amount",
+            "Aadhaar Card",
+            "Bank account statement (last 6 months)"
+        ]
+    },
+    {
+        "scheme": "POULTRY & DUCK REARING",
+        "purpose": [
+            "For establishing farms and hatcheries including purchase of chicks, feeds, medicines, equipment, feed mixing plants, construction of poultry"
+        ],
+        "target_group": "Farmers, Individual entrepreneurs, NGOs, companies, groups of un-organized and organized sector etc.",
+        "documents": [
+            "Security and land documents as per loan amount",
+            "Aadhaar Card",
+            "Business plan or project report (if applicable)",
+            "Bank account statement (last 6 months)"
+        ]
+    },
+    {
+        "scheme": "Scheme for Financing Through Self Help Groups",
+        "purpose": [
+            "Lending to group"
+        ],
+        "target_group": "Group of 10-20 members",
+        "documents": [
+            "Minutes of meetings",
+            "Micro credit Plan",
+            "Internal registers",
+            "Aadhaar Cards of all group members",
+            "Bank account statements of the group (if applicable)"
+        ]
+    },
+    {
+        "scheme": "JOINT LIABILITY GROUPS",
+        "purpose": [
+            "To augment flow of credit to landless farmers cultivating land as tenant farmers, oral lessees or share croppers and small/marginal farmers as well as other poor individuals taking up farm activities."
+        ],
+        "target_group": "Informal group comprising of 4-10 individuals coming together for the purpose of availing bank loan",
+        "documents": [
+            "Lease agreements",
+            "Aadhaar Cards of all members",
+            "Group resolution document (if applicable)",
+            "Bank statements (last 6 months) for each member"
+        ]
+    },
+    {
+        "scheme": "D R I LOANS",
+        "purpose": [
+            "Any agricultural/allied activity"
+        ],
+        "target_group": "Individuals",
+        "documents": [
+            "Family Income proof (ITR or income certificate)",
+            "Land holding proof (land records)",
+            "Aadhaar Card",
+            "'Project report' detailing the intended agricultural activity"
+        ]
+    }
+]

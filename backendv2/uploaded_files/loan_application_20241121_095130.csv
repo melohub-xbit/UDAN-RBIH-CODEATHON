@@ -1,0 +1,2 @@
+loanPurpose,incomeSource,useUpi,files,upi_ids,is_own,relationships,frequencies
+To buy a house beside my farm,farming,yes,"['uploaded_files\\upi_transaction_0_hullaa.txt', 'uploaded_files\\upi_transaction_1_7008921472_oksbi_transactions.txt', 'uploaded_files\\offline_records\\testing.pdf']","['12368684@upi', '283423848@upi']","['yes', 'yes']","['', '']","['For business', 'personal, aritel , jio, water']"

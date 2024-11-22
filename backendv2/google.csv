@@ -1,0 +1,8 @@
+raw_transaction,upi_id,amount,transaction_type,recipient_type,category,bank,recipient_name,date
+UPI/Axis/324807250213/payment on CRED,UPI-324871625824,-2236.71,debit,merchant,credit card payment,Axis,CRED,05 Sep 2023
+UPI/Axis/324891747987/payment on CRED,UPI-324871644079,-626.04,debit,merchant,credit card payment,Axis,CRED,05 Sep 2023
+UPI/Social Worth Te/324810384755/PayviaRazorpay,UPI-324876351313,-15568.00,debit,merchant,payment,N/A,Social Worth,05 Sep 2023
+UPI/MAHESH VIKRAMSI/324946465997/Payment from Ph,UPI-324920931031,-150.00,debit,individual,payment,N/A,MAHESH VIKRAMSI,06 Sep 2023
+UPI/MANOJ KISAN BAN/325003793146/Payment from Ph,UPI-325033940200,-45.00,debit,individual,payment,N/A,MANOJ KISAN,07 Sep 2023
+UPI/SANDEEP NAGESHW/361692230179/Payment from Ph,UPI-325050710670,-10000.00,debit,individual,payment,N/A,SANDEEP NAGESHW,07 Sep 2023
+UPI/RUBINA VIJAY NI/325133997955/UPI,UPI-325169628704,-12000.00,debit,individual,payment,N/A,RUBINA VIJAY,08 Sep 2023

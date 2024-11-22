@@ -1,0 +1,3 @@
+loanPurpose,incomeSource,useUpi,files,upi_ids,is_own,relationships,frequencies
+"i want to marry her 
+",her,yes,"['uploaded_files\\upi_transaction_0_manish871246702_okhdfc_transactions.txt', 'uploaded_files\\upi_transaction_1_testing.pdf', 'uploaded_files\\offline_records\\testing.pdf']","['Hello_upi@api.com', 'hello_upi']","['yes', 'yes']","['', '']","['Very frequent', 'i like it ']"

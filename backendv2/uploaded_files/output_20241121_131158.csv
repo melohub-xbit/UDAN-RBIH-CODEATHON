@@ -1,0 +1,13 @@
+raw_transaction,upi_id,amount,transaction_type,recepient_type,category,bank,recepient_name
+UPI/Axis/324807250213/payment on CRED,N/A,-2236.71,debit,merchant,other,axis,CRED
+UPI/Axis/324891747987/payment on CRED,N/A,-626.04,debit,merchant,other,axis,CRED
+Read:IMPS/324812623780/MRK TRADEL/KKBK/X0260/MRKT,N/A,34125.00,credit,merchant,other,N/A,MRK TRADEL
+UPI/Social Worth Te/324810384755/PayviaRazorpay,N/A,-15568.00,debit,merchant,other,N/A,Social Worth
+NACH-10-DR SHUHARITECHVENTURES- YGD92FP96XU8,N/A,-2769.00,debit,merchant,other,N/A,SHUHARITECHVENTURES
+UPI/MAHESH VIKRAMSI/324946465997/Payment from Ph,maheshvikramsi@,,-150.00,debit,individual,other,,MAHESH VIKRAMSI
+UPI/MANOJ KISAN BAN/325003793146/Payment from Ph,manojkisan@,,-45.00,debit,individual,other,,MANOJ KISAN
+CASH DEPOSITED BY SELF AT AUNDH BRANCH PUNE,N/A,40000.00,credit,N/A,other,,N/A
+NACH-10-DR-HUEY TECH PVT LTD- 23250000000044914535,N/A,-10460.00,debit,merchant,other,N/A,HUEY TECH PVT LTD
+NACH-10-DR-NAVI FINSERV PRIVATE- 50B9Z603MTMV,N/A,-2558.00,debit,merchant,other,N/A,NAVI FINSERV PRIVATE
+UPI/SANDEEP NAGESHW/361692230179/Payment from Ph,sandeepnageshw@,,-10000.00,debit,individual,other,,SANDEEP NAGESHW
+UPI/RUBINA VIJAY NI/325133997955/UPI,rubinavijay@,,-12000.00,debit,individual,other,,RUBINA VIJAY
