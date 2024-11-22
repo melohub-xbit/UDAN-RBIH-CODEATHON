@@ -77,38 +77,9 @@ pip install -r requirements.txt
 # Run initial setup
 python setup.py
 ```
-
-## 📦 Usage Example
-
-```python
-from udan import DocumentProcessor, TransactionAnalyzer
-
-# Initialize processors
-doc_processor = DocumentProcessor()
-transaction_analyzer = TransactionAnalyzer()
-
-# Process financial documents
-financial_profile = doc_processor.extract_records('path/to/documents')
-credit_assessment = transaction_analyzer.evaluate_profile(financial_profile)
-
-# Generate bank-ready report
-credit_assessment.generate_report('loan_application.pdf')
-```
-
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 🌐 Contact
-
-**AI Companion Team**
-- Email: contact@aicompanion.tech
-- Web: [www.aicompanion.tech](https://www.aicompanion.tech)
-
 ---
 
 **"Rewriting the story of financial equality, one entrepreneur at a time."** 🌟
